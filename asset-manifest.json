@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-slot-machine/static/css/main.49e2cb4e.chunk.css",
+    "main.js": "/React-slot-machine/static/js/main.96eecfdd.chunk.js",
+    "main.js.map": "/React-slot-machine/static/js/main.96eecfdd.chunk.js.map",
+    "runtime-main.js": "/React-slot-machine/static/js/runtime-main.e1fdee5d.js",
+    "runtime-main.js.map": "/React-slot-machine/static/js/runtime-main.e1fdee5d.js.map",
+    "static/js/2.5d9a578a.chunk.js": "/React-slot-machine/static/js/2.5d9a578a.chunk.js",
+    "static/js/2.5d9a578a.chunk.js.map": "/React-slot-machine/static/js/2.5d9a578a.chunk.js.map",
+    "index.html": "/React-slot-machine/index.html",
+    "static/css/main.49e2cb4e.chunk.css.map": "/React-slot-machine/static/css/main.49e2cb4e.chunk.css.map",
+    "static/js/2.5d9a578a.chunk.js.LICENSE.txt": "/React-slot-machine/static/js/2.5d9a578a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1fdee5d.js",
+    "static/js/2.5d9a578a.chunk.js",
+    "static/css/main.49e2cb4e.chunk.css",
+    "static/js/main.96eecfdd.chunk.js"
+  ]
+}
